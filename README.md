@@ -1,3 +1,5 @@
+![Alt text](ovia-ravdy-architecture.png)
+
 # CI/CD Pipeline Project on AWS
 
 This project demonstrates an end-to-end CI/CD pipeline setup using various DevOps tools and technologies. The goal is to automate the build, test, and deployment of a microservice application on AWS, leveraging GitHub, Jenkins, Maven, SonarQube, JFrog Artifactory, Docker, Kubernetes, Helm, Prometheus, Grafana, Terraform, and Ansible.
