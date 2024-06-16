@@ -1,0 +1,11 @@
+[jenkins-master]
+10.0.0.108
+[jenkins-master:vars]
+ansible_user=ubuntu
+ansible_ssh_private_key_file=/opt/lsf-ovia-keys.pem
+
+[jenkins-slave]
+10.0.0.184
+[jenkins-slave:vars]
+ansible_user=ubuntu
+ansible_ssh_private_key_file=/opt/lsf-ovia-keys.pem
